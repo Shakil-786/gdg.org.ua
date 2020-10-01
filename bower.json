@@ -5,7 +5,7 @@
   "authors": [
     "Sviatoslav Sydorenko <wk+opensource-gdg-ukraine@sydorenko.org.ua>"
   ],
-  "description": "GDG Ukraine web-site",
+  "description" : "GDG Ukraine web-site",
   "keywords": [
     "gdg",
     "python",
